@@ -1,0 +1,77 @@
+[
+  {
+    "server": "ssr-sg.layar3.com",
+    "server_port": 32234,
+    "password": "jkcmkTehCngKQMnGXkTPXNnh",
+    "method": "aes-256-gcm",
+    "remarks": "SG-SS-L3",
+    "ipv6": false,
+    "remote_dns": "209.97.173.243",
+    "proxy_apps": {
+      "enabled": true,
+      "android_list": [
+        "cn.dolit.iptv8k"
+      ]
+    }
+  },
+  {
+    "server": "ssr-sg.layar3.com",
+    "server_port": 33667,
+    "password": "FxQfnejY8pAr9aUVemcYNAH4",
+    "method": "aes-256-gcm",
+    "remarks": "SG2-SS-L3",
+    "ipv6": false,
+    "remote_dns": "209.97.173.243",
+    "proxy_apps": {
+      "enabled": true,
+      "android_list": [
+        "cn.dolit.iptv8k"
+      ]
+    }
+  },
+  {
+    "server": "ssr-sg.layar3.com",
+    "server_port": 34268,
+    "password": "Cp5ynhKmcrTYUTYPxEgEeQ5Q",
+    "method": "aes-256-gcm",
+    "remarks": "SG3-SS-L3",
+    "ipv6": false,
+    "remote_dns": "209.97.173.243",
+    "proxy_apps": {
+      "enabled": true,
+      "android_list": [
+        "cn.dolit.iptv8k"
+      ]
+    }
+  },
+  {
+    "server": "ssr-sg.layar3.com",
+    "server_port": 31343,
+    "password": "FYXBHtuG6S7PAFQSSY7n2B5j",
+    "method": "aes-256-gcm",
+    "remarks": "SG4-SS-L3",
+    "ipv6": false,
+    "remote_dns": "209.97.173.243",
+    "proxy_apps": {
+      "enabled": true,
+      "android_list": [
+        "cn.dolit.iptv8k"
+      ]
+    }
+  },
+  {
+    "server": "ssr-sg.layar3.com",
+    "server_port": 39721,
+    "password": "psgpqJgfgfjGkRthcxQkHHa3",
+    "method": "aes-256-gcm",
+    "remarks": "SG5-SS-L3",
+    "ipv6": false,
+    "remote_dns": "209.97.173.243",
+    "proxy_apps": {
+      "enabled": true,
+      "android_list": [
+        "cn.dolit.iptv8k"
+      ]
+    }
+  }
+]
