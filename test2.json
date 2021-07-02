@@ -10,8 +10,7 @@
     "proxy_apps": {
       "enabled": true,
       "android_list": [
-        "com.lem.live"
-        "cn.dolit.iptv8k"
+        "com.lem.live""cn.dolit.iptv8k"
       ]
     }
   },
@@ -26,8 +25,7 @@
     "proxy_apps": {
       "enabled": true,
       "android_list": [
-        "com.lem.live"
-        "cn.dolit.iptv8k"
+        "com.lem.live""cn.dolit.iptv8k"
       ]
     }
   },
@@ -42,8 +40,7 @@
     "proxy_apps": {
       "enabled": true,
       "android_list": [
-        "com.lem.live"
-        "cn.dolit.iptv8k"
+        "com.lem.live""cn.dolit.iptv8k"
       ]
     }
   },
@@ -58,8 +55,7 @@
     "proxy_apps": {
       "enabled": true,
       "android_list": [
-        "com.lem.live"
-        "cn.dolit.iptv8k"
+        "com.lem.live""cn.dolit.iptv8k"
       ]
     }
   },
@@ -74,8 +70,7 @@
     "proxy_apps": {
       "enabled": true,
       "android_list": [
-        "com.lem.live"
-        "cn.dolit.iptv8k"
+        "com.lem.live""cn.dolit.iptv8k"
       ]
     }
   }
