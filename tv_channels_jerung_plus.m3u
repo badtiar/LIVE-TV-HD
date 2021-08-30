@@ -1,83 +1,57 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA",RTM BES 1
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA",TV1
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MALAYSIA",TV1
-https://rtm1hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",TV 2 1
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="",TV 2 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 (B)
 https://rtm6hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 3
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 (C)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",TV 6 1
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 6 2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="",TV 6 (B)
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 6 3
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="",TV 6 (C)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",RTM Sport 1
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (A)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",RTM Sport 2
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (B)
 https://rtm2hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",RTM Sport 3
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (C)
 https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MALAYSIA",OKEY
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV Parlimen
+#EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (A)
 https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV Parlimen 1
+#EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (B)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV Parlimen 2
+#EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (C)
 https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV Parlimen 3
+#EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (D)
 https://rtm2hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA
-https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP6_04.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MALAYSIA",NAURA test
-https://agsplayback01.astro.com.my/CH1/master_NAURAGOSHOP6_04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
