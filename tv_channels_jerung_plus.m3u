@@ -9,19 +9,19 @@ https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="",TV 2 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 (B)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="TV MALAYSIA",TV 2 (B)
 https://rtm6hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV 2 (C)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="TV MALAYSIA",TV 2 (C)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="",TV 6 (B)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (B)
 https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="",TV 6 (C)
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (C)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
  
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (A)
