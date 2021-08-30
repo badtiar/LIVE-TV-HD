@@ -32,18 +32,26 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",RTM Sport 2
 https://rtm2hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MALAYSIA",RTM Sport 3
+https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
 
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MALAYSIA",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV test 1
-https://rtm6hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV Parlimen
+https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV test 2
-https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV test 1
+https://rtmsportshdhbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV test 2
 https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TV test 3
+https://rtm2hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="TV MALAYSIA",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
