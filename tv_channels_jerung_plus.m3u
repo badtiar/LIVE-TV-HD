@@ -9,9 +9,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (C)
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (D)
-https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV 1 (A)
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
@@ -20,9 +17,6 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV 1 (C)
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV 1 (D)
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="",TV 2 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
@@ -39,9 +33,6 @@ https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="",TV 2 (E)
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV2-May2021-JPG.jpg" group-title="",TV 2 (F)
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (A)
 https://rtm2hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
@@ -53,12 +44,6 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (D)
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (E)
-https://rtm6mobile.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (F)
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
  
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (A)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
@@ -73,23 +58,12 @@ https://rtm6hbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (E)
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (F)
-https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mp
 
 
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (A)
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (B)
-https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (C)
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (D)
-https:///rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (A)
 https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
