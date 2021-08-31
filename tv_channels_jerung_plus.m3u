@@ -4,7 +4,7 @@
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (B)
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmbeshdmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (C)
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
@@ -46,7 +46,7 @@ https://rtmsportshdhbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="",TV 6 (E)
-https://rtm6mobile.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
+https://rtm6hdmobile.secureswiftcontent.com/Origin3/ngrp:RTM3/manifest.mpd
  
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="",RTM Sport (A)
 https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
@@ -71,7 +71,7 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TVlogotvokay.jpg" group-title="",OKEY (C)
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmokeyhdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",TV Parlimen (A)
 https://rtm6hbbtv.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
