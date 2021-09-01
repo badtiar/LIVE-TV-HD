@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",Test
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (A)
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 
