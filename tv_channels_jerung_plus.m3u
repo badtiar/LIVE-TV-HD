@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTVLCOPT:http-user-agent=lemff71ff25b2b0033b0d9f68830728b4cc
-#EXTINF:-1,Test 2
-http://50.7.40.2:3977/live/ec9bd777-e72f-4b1c-8f54-127986ee210a.m3u8
-
-http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8|user-agent=
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fF2k2XY/Astro-Arena.jpg" group-title="SPORTS", Test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"key":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed","kid":"662cef16-a31a-a785-d641-067b33c24d10"}]}
