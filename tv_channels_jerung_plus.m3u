@@ -2,7 +2,12 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fF2k2XY/Astro-Arena.jpg" group-title="SPORTS", Test
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"key":"edef8ba9-79d6-4ace-a3c8-27dcd51d21ed","kid":"662cef16-a31a-a785-d641-067b33c24d10"}]}
+#KODIPROP:inputstream.adaptive.license_key=https://sg1.wzrkt.com/a?t=96&type=push&d=N4IgLgngDgpiBcIYDcYDswgDROWAcgIYC2ciAsjACYCWhABALT0DKYhATmNdrmACKF2CUFSEwAKjVIIQAJgAMcgIyMFATjUAWCcoBs8AKxb4AZlMA6OQHZlALV4BXAM4wOABQ4B7AGY0ANjAAklSyABx6cmFR0QD6CrwAxgAWhGhoMP6yEgBqykmp6Zkhsrb5OIleGOhgJYiOHDTwUBwA5vAK8MpdCr0KhgrdWlrWWqYKWoYAfg1NzolU8GUdXT19A0MjYxOGHVoaiir6k71T%2FmDIvITOrgQkZCD8ATDEDADqaTTs9E%2BBr%2FQfNBfQi8KCcGqEfwAJSENDQrVkAFUkpxGm5ZEkqhlEmAaFUJNAHpjqhgCbBZGw0mJ%2FFU4BUqtwMO5%2FIQIAAjQiJADWZIeABkgjkAKK8ADi6A4D3FGQ4kKuNxgtVCiF4AGEJKwvA1Eg93Kq1RqAIJQKD0VAcZx4tCyFRyCyGCymRhyAD0MGUiXU6j0hmsLtt9sdzsYpmUphg1jZVDCvGcjjZuLAgT5aVajkIrQeAHkfD4ro5aF4U%2FD05nZEL4f4aM5kiAAL44GjKkBvPSaMJQwyMX2GBw4BGIZSENlhNk%2BawKQhUcfDHXqOR6GBsww%2BUzWQyEWyEbexhD6cbWaymQzRHBQAdyHBvOxQgDSsVVhvI7hEIAA7sQoHucEnEggANr%2FiA%2BhyOoE76AopjYMoWDKAAunBdZ1kAAA&rn=13&i=1630774473&sn=0&gc=1ab8bf70adf744ce926eb5f375a71aaa&arp=N4IgVg%2BgdiBcIC0DqBWANgUwIIFUsgBoQBLaOEATQHEUBbDAdwFEqsBFAXg8JABMIALgGc4ABiK8AFmKIA3OAEYikEfGAACAL49ivckgBsATgC0ADgBKKEygDsKBDwyDV4kACcXigwGZRt2wAWQIM3AGsyeABtdQAdEDMDACYzFNSIUXiAXRBNIA&r=1630774473275
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5046/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fF2k2XY/Astro-Arena.jpg" group-title="SPORTS", Test 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5046/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",RTM BES (A)
